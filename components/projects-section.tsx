@@ -9,32 +9,32 @@ import Image from "next/image";
 
 const projects = [
   {
-    image: "/images/mining-site-1.jpg",
+    image: "/chunya gold extraction site.png",
     title: "Chunya Gold Extraction Site",
     description:
       "Our flagship operation in the heart of Chunya, producing high-grade gold ore through advanced open-pit mining techniques.",
     category: "Gold Mining",
   },
   {
-    image: "/images/mining-site-2.jpg",
+    image: "/Mineral processing facility.jpeg",
     title: "Mineral Processing Facility",
     description:
       "State-of-the-art processing plant equipped with modern crushing, grinding, and refining technology.",
     category: "Processing",
   },
   {
-    image: "/images/mining-site-3.jpg",
+    image: "/geographical survey operation.png",
     title: "Geological Survey Operations",
     description:
       "Comprehensive geological exploration across Mbeya region, identifying new mineral deposits with precision mapping.",
     category: "Exploration",
   },
   {
-    image: "/images/mining-site-4.jpg",
-    title: "Community & Safety Program",
+    image: "/Mashinery and equipment.jpeg",
+    title: "Machinery and Equipment",
     description:
       "Our dedicated workforce trained to the highest international safety standards with ongoing community engagement.",
-    category: "Safety",
+    category: "Equipment",
   },
 ];
 

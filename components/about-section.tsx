@@ -58,8 +58,8 @@ export function AboutSection() {
           <motion.div variants={slideInLeft} className="relative">
             <div className="relative aspect-[4/3] overflow-hidden rounded-2xl">
               <Image
-                src="/images/mining-site-1.jpg"
-                alt="Osa Mining operations in Chunya, Tanzania"
+                src="/Our story.jpeg"
+                alt="Osa Mining operations and company story in Chunya, Tanzania"
                 fill
                 className="object-cover"
               />

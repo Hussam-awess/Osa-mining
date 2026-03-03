@@ -103,7 +103,7 @@ export function Hero() {
       {/* Background Image with Parallax */}
       <motion.div className="absolute inset-0" style={{ y: imageY, scale: imageScale }}>
         <Image
-          src="/images/hero-mining.jpg"
+          src="/chunya gold extraction site.png"
           alt="Mining operation in Chunya, Tanzania"
           fill
           className="object-cover"
